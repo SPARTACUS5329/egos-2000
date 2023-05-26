@@ -1,4 +1,4 @@
-## Vision
+## Vision 
 
 This project's vision is to help **every** college student read **all** the code of an operating system.
 
